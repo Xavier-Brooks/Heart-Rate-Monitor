@@ -1,0 +1,17 @@
+Partlist exported from C:/Users/C5PO/Documents/EAGLE/projects/HRM/lab_8.sch at 11/3/2020 11:29 PM
+
+Part Value    Device          Package      Description                                 POPULARITY PROD_ID  SF_ID     SPICEPREFIX
+C1   3.3mF    C-EU025-025X050 C025-025X050 CAPACITOR, European symbol                  65                            C          
+C2   10uF     C-EU025-025X050 C025-025X050 CAPACITOR, European symbol                  65                            C          
+D1   1N5817-T 1N5817-T        DO41-7.6     1.0A SCHOTTKY BARRIER RECTIFIER             0                                        
+D2   1N5817-T 1N5817-T        DO41-7.6     1.0A SCHOTTKY BARRIER RECTIFIER             0                                        
+IC1  TLC272D  TLC272D         SO08         OP AMP                                      1                                        
+IC2  TLC272D  TLC272D         SO08         OP AMP                                      1                                        
+R3   64K      R-US_R0805      R0805        RESISTOR, American symbol                   85                            R          
+R4   8.6k     R-US_R0805      R0805        RESISTOR, American symbol                   85                            R          
+R5   39k      R-US_R0805      R0805        RESISTOR, American symbol                   85                            R          
+R6   1k       R-US_R0805      R0805        RESISTOR, American symbol                   85                            R          
+R7   100      R-US_R0805      R0805        RESISTOR, American symbol                   85                            R          
+RF   83       R-US_R0805      R0805        RESISTOR, American symbol                   85                            R          
+RL   10k      R-US_R0805      R0805        RESISTOR, American symbol                   85                            R          
+U1   QRD1114  QRD1114         QRD1114      QRD1114 Reflective Proximity, Object Sensor            IC-09032 SEN-00246            
